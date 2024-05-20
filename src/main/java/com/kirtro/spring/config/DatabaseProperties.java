@@ -1,5 +1,7 @@
 package com.kirtro.spring.config;
+
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 
 import java.util.List;
 import java.util.Map;
